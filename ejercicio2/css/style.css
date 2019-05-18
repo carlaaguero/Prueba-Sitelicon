@@ -1,0 +1,23 @@
+.tittle {
+    background-color: #3E679B;
+}
+
+.box-left {
+    background-color: #ABC5DE;
+}
+
+.box-right {
+    background-color: #CADAEA;
+}
+
+h2 {
+    color: white;
+}
+
+hr {
+    border: 1px solid white;
+}
+
+.footer {
+    background-color: #232416;
+}
